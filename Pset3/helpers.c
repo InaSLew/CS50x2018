@@ -1,4 +1,7 @@
-// Helper functions for music
+/* Helpers functions for music:
+The program reads computer-friendly music sheet, translates the notes and their duration,
+and hands the information to a synthesizer program to create music.
+*/
 
 #define C4ToA4 9
 #define D4ToA4 7

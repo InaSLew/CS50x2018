@@ -1,3 +1,12 @@
+/*The program uses the hash sign "#" to print a pyramid similar to the ones from Super Mario World.
+For example:
+$ ./mario
+Height: 4
+   #  #
+  ##  ##
+ ###  ###
+####  ####
+*/ 
 #include <stdio.h>
 #include <cs50.h>
 

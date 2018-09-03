@@ -1,3 +1,4 @@
+//The program uses Greedy algorithm to calculate the minimum number of coins needed for change.
 #include <stdio.h>
 #include <cs50.h>
 

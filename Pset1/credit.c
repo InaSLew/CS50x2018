@@ -1,3 +1,4 @@
+//The program validates a credit card number and identifies what company issued the card.
 #include <stdio.h>
 #include <cs50.h>
 
@@ -69,7 +70,6 @@ int checkSum_EveryOther(long long number)
             firstSum = firstSum + number / 10 % 10 * 2;
         }
         number = number / 100;
-
     }
     return firstSum;
 }
